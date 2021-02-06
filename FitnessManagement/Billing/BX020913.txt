@@ -1,0 +1,399 @@
+000311612BX000001                 4988535000204019031600063500000Dr Bangun Astarto         THE GYM MONTHLY PAYMENT,BX-0913-06219                                  0
+000311612BX000002                 4140094040903664091300037500000Reyta                     THE GYM MONTHLY PAYMENT,BX-0913-06220                                  0
+000311612BX000005                 5184940104383116111500037500000Nety S Hempell            THE GYM MONTHLY PAYMENT,BX-0913-06221                                  0
+000311612BX000006                 4201920122842139071700037500000S Riandono                THE GYM MONTHLY PAYMENT,BX-0913-06222                                  0
+000311612BX000007                 4096750142115671091300057500000Ary Rismy                 THE GYM MONTHLY PAYMENT,BX-0913-06223                                  0
+000311612BX000008                 4137180308595667031600062500000Restu Maylani             THE GYM MONTHLY PAYMENT,BX-0913-06224                                  0
+000311612BX000009                 4201920123962266121400037500000Diana Ekawati             THE GYM MONTHLY PAYMENT,BX-0913-06225                                  0
+000311612BX000011                 4890870054566048081600077500000Celly Chalidah            THE GYM MONTHLY PAYMENT,BX-0913-06226                                  0
+000311612BX000013                 5481160103757422071400037500000Gilang Taruna P           THE GYM MONTHLY PAYMENT,BX-0913-06227                                  0
+000311612BX000014                 4105040001273657051400077500000Movie                     THE GYM MONTHLY PAYMENT,BX-0913-06228                                  0
+000311612BX000017                 5408894000188253031500057500000Nina Novita Kartika       THE GYM MONTHLY PAYMENT,BX-0913-06229                                  0
+000311612BX000018                 5408894000188253031500057500000Nina Novita Kartika       THE GYM MONTHLY PAYMENT,BX-0913-06230                                  0
+000311612BX000019                 4556327771146815091500077500000Rizki Aditya Rachmat      THE GYM MONTHLY PAYMENT,BX-0913-06231                                  0
+000311612BX000020                 4587690000277203021700037500000Yulia Ayu Trisia          THE GYM MONTHLY PAYMENT,BX-0913-06232                                  0
+000311612BX000023                 4541790062120021091300037500000Wini Wardhini             THE GYM MONTHLY PAYMENT,BX-0913-06233                                  0
+000311612BX000026                 5520422040878403011400057500000Mohammad Hamim            THE GYM MONTHLY PAYMENT,BX-0913-06234                                  0
+000311612BX000027                 4284160000188293031500057500000Triyani                   THE GYM MONTHLY PAYMENT,BX-0913-06235                                  0
+000311612BX000032                 5243250301187198011500037500000Devayana Tarissa          THE GYM MONTHLY PAYMENT,BX-0913-06236                                  0
+000311612BX000033                 4105050910123497121700037500000Dr Aldora Sjaflan         THE GYM MONTHLY PAYMENT,BX-0913-06237                                  0
+000311612BX000034                 4105050910123497121700037500000Dr Aldora Sjaflan         THE GYM MONTHLY PAYMENT,BX-0913-06238                                  0
+000311612BX000038                 4140094070802836031700037500000Christian Agung Jati      THE GYM MONTHLY PAYMENT,BX-0913-06239                                  0
+000311612BX000046                 5484150020381874111600037500000Martje Eflien M           THE GYM MONTHLY PAYMENT,BX-0913-06240                                  0
+000311612BX000048                 5484150020381874111600057500000Martje Eflien M           THE GYM MONTHLY PAYMENT,BX-0913-06241                                  0
+000311612BX000052                 5426400900107977101400037500000Childah Cholid            THE GYM MONTHLY PAYMENT,BX-0913-06242                                  0
+000311612BX000053                 4453770003380906061600037500000Susi Josida               THE GYM MONTHLY PAYMENT,BX-0913-06243                                  0
+000311612BX000054                 4453770003380906061600037500000Susi Josida               THE GYM MONTHLY PAYMENT,BX-0913-06244                                  0
+000311612BX000058                 1084800445804115091300057500000Irvan Rustam              THE GYM MONTHLY PAYMENT,BX-0913-06245                                  0
+000311612BX000059                 1084800445804115091300037500000Irvan Rustam              THE GYM MONTHLY PAYMENT,BX-0913-06246                                  0
+000311612BX000060                 4137180306514272071500037500000Flora Kurniawan           THE GYM MONTHLY PAYMENT,BX-0913-06247                                  0
+000311612BX000062                 1888801370184505101400037500000Hartaty Sirait            THE GYM MONTHLY PAYMENT,BX-0913-06248                                  0
+000311612BX000073                 5401840112472199041600057500000Raya Erry                 THE GYM MONTHLY PAYMENT,BX-0913-06249                                  0
+000311612BX000074                 5520088942368007011600037500000Hermansyah Nasroen        THE GYM MONTHLY PAYMENT,BX-0913-06250                                  0
+000311612BX000075                 5409120007853304061600037500000Fabiola Indrayanri        THE GYM MONTHLY PAYMENT,BX-0913-06251                                  0
+000311612BX000076                 1888801337923102041700057500000Savitry Nurnatias         THE GYM MONTHLY PAYMENT,BX-0913-06252                                  0
+000311612BX000078                 5189439903840603101400077500000Mulvianti                 THE GYM MONTHLY PAYMENT,BX-0913-06253                                  0
+000311612BX000081                 4140092010865285011400037500000Sharon                    THE GYM MONTHLY PAYMENT,BX-0913-06254                                  0
+000311612BX000082                 4140092010865285011400057500000Sharon                    THE GYM MONTHLY PAYMENT,BX-0913-06255                                  0
+000311612BX000086                 5401840112217586121300057500000Maria Mariza Thambi       THE GYM MONTHLY PAYMENT,BX-0913-06256                                  0
+000311612BX000087                 5401840112217586121300057500000Maria Mariza Thambi       THE GYM MONTHLY PAYMENT,BX-0913-06257                                  0
+000311612BX000091                 5401840139176666091300037500000Ira Dhamayanti            THE GYM MONTHLY PAYMENT,BX-0913-06258                                  0
+000311612BX000092                 4556330015142202121500037500000Archita Logiana           THE GYM MONTHLY PAYMENT,BX-0913-06259                                  0
+000311612BX000093                 4599200201346215081400037500000Tina Saloma               THE GYM MONTHLY PAYMENT,BX-0913-06260                                  0
+000311612BX000094                 4890870050176149061800057500000Evie Meilia               THE GYM MONTHLY PAYMENT,BX-0913-06261                                  0
+000311612BX000095                 4556327771370118081600037500000Mohammad Rizki Yudomo     THE GYM MONTHLY PAYMENT,BX-0913-06262                                  0
+000311612BX000096                 5489888811526075081500037500000Wina Annisa Nurimam       THE GYM MONTHLY PAYMENT,BX-0913-06263                                  0
+000311612BX000099                 5520020230474007021500057500000Oki Pancoro               THE GYM MONTHLY PAYMENT,BX-0913-06264                                  0
+000311612BX000102                 5481170203897150051500037500000Lilian Satyalaksana       THE GYM MONTHLY PAYMENT,BX-0913-06265                                  0
+000311612BX000105                 4512490010211031041600037500000Riyan Triningsih          THE GYM MONTHLY PAYMENT,BX-0913-06266                                  0
+000311612BX000106                 4137190300949176121300057500000Zefnat R Anakotta         THE GYM MONTHLY PAYMENT,BX-0913-06267                                  0
+000311612BX000107                 5407310000665001031400057500000Mega Satria               THE GYM MONTHLY PAYMENT,BX-0913-06268                                  0
+000311612BX000110                 4137196001686918011400057500000Aria Pradhana             THE GYM MONTHLY PAYMENT,BX-0913-06269                                  0
+000311612BX000111                 5183230101124759021600037500000Kharis Ikamuda            THE GYM MONTHLY PAYMENT,BX-0913-06270                                  0
+000311612BX000114                 4140092070655477011700057500000Imelda Tumiwa             THE GYM MONTHLY PAYMENT,BX-0913-06271                                  0
+000311612BX000115                 4140092070655477011700057500000Imelda Tumiwa             THE GYM MONTHLY PAYMENT,BX-0913-06272                                  0
+000311612BX000117                 4512490070064114021500037500000Daniel E Maharsasi        THE GYM MONTHLY PAYMENT,BX-0913-06273                                  0
+000311612BX000119                 4902840300753621041500037500000Pungkiarti Thuri W        THE GYM MONTHLY PAYMENT,BX-0913-06274                                  0
+000311612BX000120                 4599200200209919111600037500000Yudie Noerwahyudie        THE GYM MONTHLY PAYMENT,BX-0913-06275                                  0
+000311612BX000121                 4890870059373416011600057500000Dewita Dwi Wahyuni        THE GYM MONTHLY PAYMENT,BX-0913-06276                                  0
+000311612BX000124                 5413220009211800031500037500000Desi Prima Sari           THE GYM MONTHLY PAYMENT,BX-0913-06277                                  0
+000311612BX000127                 4140092070498159081600057500000Hanifa Sutrisna           THE GYM MONTHLY PAYMENT,BX-0913-06278                                  0
+000311612BX000128                 4140092070498159081600057500000Hanifa Sutrisna           THE GYM MONTHLY PAYMENT,BX-0913-06279                                  0
+000311612BX000129                 5520422040408276031600037500000Stefanus Didi             THE GYM MONTHLY PAYMENT,BX-0913-06280                                  0
+000311612BX000131                 4541780016546991031400037500000Steven Andre Warouw       THE GYM MONTHLY PAYMENT,BX-0913-06281                                  0
+000311612BX000136                 4556320017214919081500037500000Mochamad Dikman           THE GYM MONTHLY PAYMENT,BX-0913-06282                                  0
+000311612BX000139                 4541790062671692081300037500000Deva Prasetyo             THE GYM MONTHLY PAYMENT,BX-0913-06283                                  0
+000311612BX000140                 5184940101355869011500057500000Dwi Nofiarny              THE GYM MONTHLY PAYMENT,BX-0913-06284                                  0
+000311612BX000144                 1889801381413702061500037500000Eva Alia                  THE GYM MONTHLY PAYMENT,BX-0913-06285                                  0
+000311612BX000145                 4541780016426178121300037500000T Marina Nasution         THE GYM MONTHLY PAYMENT,BX-0913-06286                                  0
+000311612BX000148                 4140094040395747011700037500000Hanny Wulandari           THE GYM MONTHLY PAYMENT,BX-0913-06287                                  0
+000311612BX000150                 1889801398972203011600037500000Asri                      THE GYM MONTHLY PAYMENT,BX-0913-06288                                  0
+000311612BX000152                 5421770190678571101600057500000Tri W Wedasanti           THE GYM MONTHLY PAYMENT,BX-0913-06289                                  0
+000311612BX000154                 1888801370184505101400057500000Hartaty Sirait            THE GYM MONTHLY PAYMENT,BX-0913-06290                                  0
+000311612BX000156                 4140094071425801081600037500000Oloan                     THE GYM MONTHLY PAYMENT,BX-0913-06291                                  0
+000311612BX000159                 4377014021270572111400057500000Herlina Pudjiastuti       THE GYM MONTHLY PAYMENT,BX-0913-06292                                  0
+000311612BX000163                 4137196200015570041800037500000Marisa                    THE GYM MONTHLY PAYMENT,BX-0913-06293                                  0
+000311612BX000164                 4137190303357245051700037500000Ferri Jufry               THE GYM MONTHLY PAYMENT,BX-0913-06294                                  0
+000311612BX000166                 4541791043775156111600037500000Anna Vanessa              THE GYM MONTHLY PAYMENT,BX-0913-06295                                  0
+000311612BX000167                 4137196001313596121400057500000Rudi A Kadarman           THE GYM MONTHLY PAYMENT,BX-0913-06296                                  0
+000311612BX000168                 5426400010621230081300037500000A Hendyasanty Putri       THE GYM MONTHLY PAYMENT,BX-0913-06297                                  0
+000311612BX000170                 5400419006175662011500057500000Agnes Muriani             THE GYM MONTHLY PAYMENT,BX-0913-06298                                  0
+000311612BX000171                 5422609313829100051400057500000Resmiyatin P              THE GYM MONTHLY PAYMENT,BX-0913-06299                                  0
+000311612BX000172                 4472119902001006071600037500000Arlinka Supardi           THE GYM MONTHLY PAYMENT,BX-0913-06300                                  0
+000311612BX000174                 4137180309413381011700037500000Sefanja A R Maitimoe      THE GYM MONTHLY PAYMENT,BX-0913-06301                                  0
+000311612BX000175                 4512490000395422011600037500000F Emmyanti Susilo         THE GYM MONTHLY PAYMENT,BX-0913-06302                                  0
+000311612BX000176                 1889801381231500061500037500000Yoseph Ekowahyudi T       THE GYM MONTHLY PAYMENT,BX-0913-06303                                  0
+000311612BX000177                 1889801381231500061500037500000Yoseph Ekowahyudi T       THE GYM MONTHLY PAYMENT,BX-0913-06304                                  0
+000311612BX000180                 5432480000500703061500037500000Heny Christina            THE GYM MONTHLY PAYMENT,BX-0913-06305                                  0
+000311612BX000181                 5432480000500703061500037500000Heny Christina            THE GYM MONTHLY PAYMENT,BX-0913-06306                                  0
+000311612BX000184                 5401840114139176061600037500000Susilo Arbanu             THE GYM MONTHLY PAYMENT,BX-0913-06307                                  0
+000311612BX000190                 4541780019291702071600085500000Puguh Sugeng Putranto     THE GYM MONTHLY PAYMENT,BX-0913-06308                                  0
+000311612BX000191                 4890870054327425071600037500000Rien Erika Yulianov       THE GYM MONTHLY PAYMENT,BX-0913-06309                                  0
+000311612BX000192                 4890870054327425071600037500000Rien Erika Yulianov       THE GYM MONTHLY PAYMENT,BX-0913-06310                                  0
+000311612BX000193                 4890870059174400111600037500000Dotty Wimpertiwi          THE GYM MONTHLY PAYMENT,BX-0913-06311                                  0
+000311612BX000195                 5409127775506212091400037500000Felisia Triyudianti T     THE GYM MONTHLY PAYMENT,BX-0913-06312                                  0
+000311612BX000198                 4157350028675017091400037500000Dewi Hananingrum          THE GYM MONTHLY PAYMENT,BX-0913-06313                                  0
+000311612BX000200                 5489888902054177081400037500000DR Riris Delita           THE GYM MONTHLY PAYMENT,BX-0913-06314                                  0
+000311612BX000201                 4541791071107280081300057500000Bunga R Ichwan            THE GYM MONTHLY PAYMENT,BX-0913-06315                                  0
+000311612BX000202                 4541791071107280081300057500000Bunga R Ichwan            THE GYM MONTHLY PAYMENT,BX-0913-06316                                  0
+000311612BX000206                 5447418902270705051500037500000Albertus Poento Djatmiko  THE GYM MONTHLY PAYMENT,BX-0913-06317                                  0
+000311612BX000208                 4472110018556371111500057500000Niyta Korompis            THE GYM MONTHLY PAYMENT,BX-0913-06318                                  0
+000311612BX000210                 4284160000645748041500077500000Michael Ray Bastian       THE GYM MONTHLY PAYMENT,BX-0913-06319                                  0
+000311612BX000211                 5289190200023372051600037500000Marlon Eddwar             THE GYM MONTHLY PAYMENT,BX-0913-06320                                  0
+000311612BX000212                 5289190200023372051600037500000Marlon Eddwar             THE GYM MONTHLY PAYMENT,BX-0913-06321                                  0
+000311612BX000213                 4890870053740230051600037500000Yosi Frinda Yobi          THE GYM MONTHLY PAYMENT,BX-0913-06322                                  0
+000311612BX000215                 5401840111427749031600057500000Nita Sekar Tanjung        THE GYM MONTHLY PAYMENT,BX-0913-06323                                  0
+000311612BX000216                 4541780017352530021700037500000Wahyu Gunawan             THE GYM MONTHLY PAYMENT,BX-0913-06324                                  0
+000311612BX000217                 4140092070177084051600057500000Mary Novita               THE GYM MONTHLY PAYMENT,BX-0913-06325                                  0
+000311612BX000219                 4544931100599209071500037500000Nurul Hidayati            THE GYM MONTHLY PAYMENT,BX-0913-06326                                  0
+000311612BX000220                 4544931100599209071500037500000Nurul Hidayati            THE GYM MONTHLY PAYMENT,BX-0913-06327                                  0
+000311612BX000221                 5413222910027010081400037500000Patricia Mona N           THE GYM MONTHLY PAYMENT,BX-0913-06328                                  0
+000311612BX000224                 4541780019524730101600037500000Retno Wuri Handayani      THE GYM MONTHLY PAYMENT,BX-0913-06329                                  0
+000311612BX000226                 5421770191955655111600037500000Kamelia                   THE GYM MONTHLY PAYMENT,BX-0913-06330                                  0
+000311612BX000227                 5288721009174007101600057500000Kusniati                  THE GYM MONTHLY PAYMENT,BX-0913-06331                                  0
+000311612BX000228                 5288721009174007101600057500000Kusniati                  THE GYM MONTHLY PAYMENT,BX-0913-06332                                  0
+000311612BX000230                 4472111102033756081500037500000Anggraeni                 THE GYM MONTHLY PAYMENT,BX-0913-06333                                  0
+000311612BX000231                 4137190303270174041700037500000Poppy Femia               THE GYM MONTHLY PAYMENT,BX-0913-06334                                  0
+000311612BX000232                 5481170205457045091500037500000Margaretha B F            THE GYM MONTHLY PAYMENT,BX-0913-06335                                  0
+000311612BX000235                 5409120023796123101400057500000Sylvia Angriany           THE GYM MONTHLY PAYMENT,BX-0913-06336                                  0
+000311612BX000241                 5289190001738228071600037500000Gani Surya Darma          THE GYM MONTHLY PAYMENT,BX-0913-06337                                  0
+000311612BX000242                 1688701408186005041600057500000Desi Novitasari           THE GYM MONTHLY PAYMENT,BX-0913-06338                                  0
+000311612BX000244                 5401840113739802081300037500000Virda Safitri             THE GYM MONTHLY PAYMENT,BX-0913-06339                                  0
+000311612BX000249                 4568793919464129121300037500000Jihan Kemala              THE GYM MONTHLY PAYMENT,BX-0913-06340                                  0
+000311612BX000251                 5401840119414509101300037500000Virastuty                 THE GYM MONTHLY PAYMENT,BX-0913-06341                                  0
+000311612BX000256                 4096750140946457041600037500000Devi Dinar Juarni         THE GYM MONTHLY PAYMENT,BX-0913-06342                                  0
+000311612BX000257                 5189439020526200071400037500000Karim Asaari              THE GYM MONTHLY PAYMENT,BX-0913-06343                                  0
+000311612BX000258                 4544931101833425011600037500000Ita Magdalena             THE GYM MONTHLY PAYMENT,BX-0913-06344                                  0
+000311612BX000259                 4377001013706002101400037500000Dimas Satrio W            THE GYM MONTHLY PAYMENT,BX-0913-06345                                  0
+000311612BX000261                 4105040902101163101300037500000Kristanti Widiastuti      THE GYM MONTHLY PAYMENT,BX-0913-06346                                  0
+000311612BX000262                 4096750140056232121600037500000Yunita Widyasari          THE GYM MONTHLY PAYMENT,BX-0913-06347                                  0
+000311612BX000264                 4157350220376018081400037500000Astrid Pramesthy          THE GYM MONTHLY PAYMENT,BX-0913-06348                                  0
+000311612BX000265                 5526950000012856101600037500000Adhi Surindera            THE GYM MONTHLY PAYMENT,BX-0913-06349                                  0
+000311612BX000270                 4096750140652840051500057500000Hartanto Utomo            THE GYM MONTHLY PAYMENT,BX-0913-06350                                  0
+000311612BX000271                 4096750140652840051500037500000Hartanto Utomo            THE GYM MONTHLY PAYMENT,BX-0913-06351                                  0
+000311612BX000272                 4096750140652840051500037500000Hartanto Utomo            THE GYM MONTHLY PAYMENT,BX-0913-06352                                  0
+000311612BX000275                 4453770000711400091300041500000Nunuk Maryunani           THE GYM MONTHLY PAYMENT,BX-0913-06353                                  0
+000311612BX000279                 5183230100971507111400063500000Angelique Aryanto         THE GYM MONTHLY PAYMENT,BX-0913-06354                                  0
+000311612BX000280                 5149342580212592081400041500000Tina Saloma               THE GYM MONTHLY PAYMENT,BX-0913-06355                                  0
+000311612BX000282                 4140094071093286111400041500000Inggih Istani             THE GYM MONTHLY PAYMENT,BX-0913-06356                                  0
+000311612BX000290                 4556337773198318021400037500000Kamelia Devi Thamrin      THE GYM MONTHLY PAYMENT,BX-0913-06357                                  0
+000311612BX000291                 5289190001571165121500057500000Sjane Dumalang            THE GYM MONTHLY PAYMENT,BX-0913-06358                                  0
+000311612BX000292                 1888601293212205011700037500000Nina Karima               THE GYM MONTHLY PAYMENT,BX-0913-06359                                  0
+000311612BX000294                 5543026190023356031400057500000Junira Dhamayani Jahja    THE GYM MONTHLY PAYMENT,BX-0913-06360                                  0
+000311612BX000296                 4835759902310493081300063500000Rizki A R                 THE GYM MONTHLY PAYMENT,BX-0913-06361                                  0
+000311612BX000297                 4541780013297838121300041500000Irving A Hutagalung       THE GYM MONTHLY PAYMENT,BX-0913-06362                                  0
+000311612BX000298                 4260130002349001101300037500000Mahmud T Amir             THE GYM MONTHLY PAYMENT,BX-0913-06363                                  0
+000311612BX000300                 5288721190049455011400041500000Anton Haryanto            THE GYM MONTHLY PAYMENT,BX-0913-06364                                  0
+000311612BX000301                 4260130002349001101300037500000Mahmud T Amir             THE GYM MONTHLY PAYMENT,BX-0913-06365                                  0
+000311612BX000302                 5241250010003902101300059500000Lina Tjandra              THE GYM MONTHLY PAYMENT,BX-0913-06366                                  0
+000311612BX000306                 5185350602550944091600063500000Bambang Herlambang        THE GYM MONTHLY PAYMENT,BX-0913-06367                                  0
+000311612BX000308                 5189439016420509071400041500000Yogi Aditya               THE GYM MONTHLY PAYMENT,BX-0913-06368                                  0
+000311612BX000310                 4453770021882412051600063500000Angela Virginia Maria S.  THE GYM MONTHLY PAYMENT,BX-0913-06369                                  0
+000311612BX000312                 4988531000801490081600041500000T Yohandoyo Gunawan       THE GYM MONTHLY PAYMENT,BX-0913-06370                                  0
+000311612BX000313                 4835759902310493081300063500000Rizki A R                 THE GYM MONTHLY PAYMENT,BX-0913-06371                                  0
+000311612BX000316                 4137190303029265121600037500000Dharma Kusuma             THE GYM MONTHLY PAYMENT,BX-0913-06372                                  0
+000311612BX000317                 4890870052028090071700037500000Caterin Novista           THE GYM MONTHLY PAYMENT,BX-0913-06373                                  0
+000311612BX000320                 1888801312623339061300057500000Novka Orchidanto          THE GYM MONTHLY PAYMENT,BX-0913-06374                                  0
+000311612BX000321                 4556321129155909071300041500000Lisa oktaviana            THE GYM MONTHLY PAYMENT,BX-0913-06375                                  0
+000311612BX000322                 5289190002865145091600041500000Jacqueline N.S            THE GYM MONTHLY PAYMENT,BX-0913-06376                                  0
+000311612BX000323                 5289190100056282101300063500000Sherry Jurnalis           THE GYM MONTHLY PAYMENT,BX-0913-06377                                  0
+000311612BX000325                 5481160102289013021700041500000Theresia Aryani           THE GYM MONTHLY PAYMENT,BX-0913-06378                                  0
+000311612BX000326                 5481160102289013021700041500000Theresia Aryani           THE GYM MONTHLY PAYMENT,BX-0913-06379                                  0
+000311612BX000329                 4453770020135317051500041500000Lora Amarin               THE GYM MONTHLY PAYMENT,BX-0913-06380                                  0
+000311612BX000331                 4546338100017430111500041500000Edi Supriyanto            THE GYM MONTHLY PAYMENT,BX-0913-06381                                  0
+000311612BX000333                 5426400020014434071800071500000Sukerti Ali               THE GYM MONTHLY PAYMENT,BX-0913-06382                                  0
+000311612BX000334                 4556330021176129121400063500000Liza M. Soewarna          THE GYM MONTHLY PAYMENT,BX-0913-06383                                  0
+000311612BX000335                 4934981081619680011700041500000Robertus J H              THE GYM MONTHLY PAYMENT,BX-0913-06384                                  0
+000311612BX000336                 4934981081619680011700041500000Robertus J H              THE GYM MONTHLY PAYMENT,BX-0913-06385                                  0
+000311612BX000343                 4259450300080709061500063500000Soelfirino                THE GYM MONTHLY PAYMENT,BX-0913-06386                                  0
+000311612BX000345                 4137196000080907121500037500000Wirawan Setiadi           THE GYM MONTHLY PAYMENT,BX-0913-06387                                  0
+000311612BX000348                 4556330350227014081400063500000Santi W. Puspitasari      THE GYM MONTHLY PAYMENT,BX-0913-06388                                  0
+000311612BX000350                 1018800420346117081300041500000Erwin Yunaz               THE GYM MONTHLY PAYMENT,BX-0913-06389                                  0
+000311612BX000351                 5416160075245000091400063500000Vitta Dessy C. P.         THE GYM MONTHLY PAYMENT,BX-0913-06390                                  0
+000311612BX000355                 5401844210077587011700041500000Agung Darmawan            THE GYM MONTHLY PAYMENT,BX-0913-06391                                  0
+000311612BX000356                 5401844210077587011700041500000Agung Darmawan            THE GYM MONTHLY PAYMENT,BX-0913-06392                                  0
+000311612BX000359                 4140094071425801081600037500000OLOAN                     THE GYM MONTHLY PAYMENT,BX-0913-06393                                  0
+000311612BX000361                 4541780016160256041700063500000Achmad Fauzi              THE GYM MONTHLY PAYMENT,BX-0913-06394                                  0
+000311612BX000363                 4137180309097739101600063500000Antonius LBN Gaol         THE GYM MONTHLY PAYMENT,BX-0913-06395                                  0
+000311612BX000368                 4472111104322264031700041500000Tiessa Audia              THE GYM MONTHLY PAYMENT,BX-0913-06396                                  0
+000311612BX000369                 4137180307528008041500041500000Prima Cahyaningtyas       THE GYM MONTHLY PAYMENT,BX-0913-06397                                  0
+000311612BX000370                 4137180307528008041500063500000Prima Cahyaningtyas       THE GYM MONTHLY PAYMENT,BX-0913-06398                                  0
+000311612BX000374                 4556320018063307111500041500000IRVAN MUTHALIB            THE GYM MONTHLY PAYMENT,BX-0913-06399                                  0
+000311612BX000375                 4556330018327701041500041500000Firdaus                   THE GYM MONTHLY PAYMENT,BX-0913-06400                                  0
+000311612BX000377                 4988535100016230091500041500000Indra Wiranti             THE GYM MONTHLY PAYMENT,BX-0913-06401                                  0
+000311612BX000379                 5520422040072858091300063500000Indra H Sukandar          THE GYM MONTHLY PAYMENT,BX-0913-06402                                  0
+000311612BX000390                 4665740000005461111600041500000Kemal Vivaveni            THE GYM MONTHLY PAYMENT,BX-0913-06403                                  0
+000311612BX000391                 5289190000151811091300041500000Sandy Tiara               THE GYM MONTHLY PAYMENT,BX-0913-06404                                  0
+000311612BX000392                 5289190000151811091300063500000Sandy Tiara               THE GYM MONTHLY PAYMENT,BX-0913-06405                                  0
+000311612BX000394                 5120212200019086011800041500000Rika TRi Aryanthi         THE GYM MONTHLY PAYMENT,BX-0913-06406                                  0
+000311612BX000395                 5410701029887631101700063500000Minkhoiril Bariyah        THE GYM MONTHLY PAYMENT,BX-0913-06407                                  0
+000311612BX000397                 1889801398972203011600041500000Asri                      THE GYM MONTHLY PAYMENT,BX-0913-06408                                  0
+000311612BX000398                 4140092070227186041600063500000Taufiqurrohman            THE GYM MONTHLY PAYMENT,BX-0913-06409                                  0
+000311612BX000399                 4140092070227186041600085500000Taufiqurrohman            THE GYM MONTHLY PAYMENT,BX-0913-06410                                  0
+000311612BX000402                 4835759902834211061400041500000Puspita Hendra Sari       THE GYM MONTHLY PAYMENT,BX-0913-06411                                  0
+000311612BX000405                 4140094070056334081300041500000Dewi R Sari               THE GYM MONTHLY PAYMENT,BX-0913-06412                                  0
+000311612BX000408                 4105050900080764121700063500000Mutia Sofie Arlandini     THE GYM MONTHLY PAYMENT,BX-0913-06413                                  0
+000311612BX000410                 4645831100915363111700041500000Nurhayati                 THE GYM MONTHLY PAYMENT,BX-0913-06414                                  0
+000311612BX000415                 4541786010034504061600063500000Ny Dra Minarni            THE GYM MONTHLY PAYMENT,BX-0913-06415                                  0
+000311612BX000416                 4105050010919612081300063500000Antonius Iman Sudrajat    THE GYM MONTHLY PAYMENT,BX-0913-06416                                  0
+000311612BX000417                 4105050010919612081300071500000Antonius Iman S           THE GYM MONTHLY PAYMENT,BX-0913-06417                                  0
+000311612BX000418                 5481170200370912011600041500000Pipin Rohayati            THE GYM MONTHLY PAYMENT,BX-0913-06418                                  0
+000311612BX000420                 5489888830141518031400041500000Hazairin Rusly            THE GYM MONTHLY PAYMENT,BX-0913-06419                                  0
+000311612BX000421                 5489888830141518031400041500000Hazairin Rusly            THE GYM MONTHLY PAYMENT,BX-0913-06420                                  0
+000311612BX000422                 5421770191425204091300041500000Triyana Amalia            THE GYM MONTHLY PAYMENT,BX-0913-06421                                  0
+000311612BX000424                 5184940103554634121500041500000Bani fatma Sukmanandia    THE GYM MONTHLY PAYMENT,BX-0913-06422                                  0
+000311612BX000429                 5413220011578717111500041500000Anna Gracia Beatrix       THE GYM MONTHLY PAYMENT,BX-0913-06423                                  0
+000311612BX000435                 4105050910080267081600041500000M. Syarif                 THE GYM MONTHLY PAYMENT,BX-0913-06424                                  0
+000311612BX000436                 5520088942176103011600041500000Henny Hermawan            THE GYM MONTHLY PAYMENT,BX-0913-06425                                  0
+000311612BX000437                 5520088942176103011600041500000Dwi Handayani             THE GYM MONTHLY PAYMENT,BX-0913-06426                                  0
+000311612BX000438                 5243250300485304061500041500000Melina Sari               THE GYM MONTHLY PAYMENT,BX-0913-06427                                  0
+000311612BX000439                 5413220014505600081600041500000Yudo Nugroho Doni         THE GYM MONTHLY PAYMENT,BX-0913-06428                                  0
+000311612BX000443                 5447418902346604041500041500000Dina Widjojo              THE GYM MONTHLY PAYMENT,BX-0913-06429                                  0
+000311612BX000444                 4137180303540239101500041500000Yunita Haryudani          THE GYM MONTHLY PAYMENT,BX-0913-06430                                  0
+000311612BX000445                 4219202000668187101700041500000Riri F Hasan              THE GYM MONTHLY PAYMENT,BX-0913-06431                                  0
+000311612BX000446                 4541780016256575051300063500000Budi Susanto              THE GYM MONTHLY PAYMENT,BX-0913-06432                                  0
+000311612BX000447                 4541780016256575051300063500000Budi Susanto              THE GYM MONTHLY PAYMENT,BX-0913-06433                                  0
+000311612BX000449                 4137196001169915061500041500000chasmia Setiawati         THE GYM MONTHLY PAYMENT,BX-0913-06434                                  0
+000311612BX000450                 4137196001169915061500041500000Chashia Setiawati         THE GYM MONTHLY PAYMENT,BX-0913-06435                                  0
+000311612BX000452                 1889801398364401011600041500000Erma Dessy Kuntowati      THE GYM MONTHLY PAYMENT,BX-0913-06436                                  0
+000311612BX000453                 1889801397028304121500063500000Muhammad Furqon           THE GYM MONTHLY PAYMENT,BX-0913-06437                                  0
+000311612BX000458                 5149342581177943021400063500000Irma Rimadhona S          THE GYM MONTHLY PAYMENT,BX-0913-06438                                  0
+000311612BX000461                 4541791070019320041600063500000Sari Yuliati              THE GYM MONTHLY PAYMENT,BX-0913-06439                                  0
+000311612BX000462                 5413220007706710071400041500000Melissa Marlienia         THE GYM MONTHLY PAYMENT,BX-0913-06440                                  0
+000311612BX000464                 4541780015486108091300041500000Chris Lantang             THE GYM MONTHLY PAYMENT,BX-0913-06441                                  0
+000311612BX000469                 4137180303540239101500085500000Yunita Hiryudani          THE GYM MONTHLY PAYMENT,BX-0913-06442                                  0
+000311612BX000470                 4137190302353427101500041500000Margaretha Novelia        THE GYM MONTHLY PAYMENT,BX-0913-06443                                  0
+000311612BX000475                 4260135501717004121400041500000Edward S Pardomuan        THE GYM MONTHLY PAYMENT,BX-0913-06444                                  0
+000311612BX000477                 5447418902813801051500041500000Winda Yuniastanty         THE GYM MONTHLY PAYMENT,BX-0913-06445                                  0
+000311612BX000479                 4902830301443942061400041500000Delima Dinar              THE GYM MONTHLY PAYMENT,BX-0913-06446                                  0
+000311612BX000482                 4541790091298590101600063500000Djatmiko                  THE GYM MONTHLY PAYMENT,BX-0913-06447                                  0
+000311612BX000483                 5184940101277378071600041500000Rianto Pribadi SH         THE GYM MONTHLY PAYMENT,BX-0913-06448                                  0
+000311612BX000484                 5452990069360117011400041500000Thia                      THE GYM MONTHLY PAYMENT,BX-0913-06449                                  0
+000311612BX000485                 4541780015486108091300041500000Chris Lantang             THE GYM MONTHLY PAYMENT,BX-0913-06450                                  0
+000311612BX000492                 5241250900028217021600041500000Astrid Wulandari          THE GYM MONTHLY PAYMENT,BX-0913-06451                                  0
+000311612BX000493                 4140092070051396071700041500000Riyanti K                 THE GYM MONTHLY PAYMENT,BX-0913-06452                                  0
+000311612BX000497                 4556330017786105031500041500000Aurizal                   THE GYM MONTHLY PAYMENT,BX-0913-06453                                  0
+000311612BX000499                 4140092010957439091600041500000Ngatmi Nainggolan         THE GYM MONTHLY PAYMENT,BX-0913-06454                                  0
+000311612BX000500                 4140092010957439091600041500000Ngatmi Nainggolan         THE GYM MONTHLY PAYMENT,BX-0913-06455                                  0
+000311612BX000501                 4556320019804501021600063500000IR. Lily Maryati          THE GYM MONTHLY PAYMENT,BX-0913-06456                                  0
+000311612BX000509                 4140092010915908101300041500000Tjhin leeris harni        THE GYM MONTHLY PAYMENT,BX-0913-06457                                  0
+000311612BX000510                 4140092010915908101300041500000Tjhin leeris harni        THE GYM MONTHLY PAYMENT,BX-0913-06458                                  0
+000311612BX000511                 4556330009184228011700063500000Denny Rambitan            THE GYM MONTHLY PAYMENT,BX-0913-06459                                  0
+000311612BX000512                 4309815002414002031400063500000Risye Dillamity           THE GYM MONTHLY PAYMENT,BX-0913-06460                                  0
+000311612BX000513                 4556330019426007111500063500000Liavananti                THE GYM MONTHLY PAYMENT,BX-0913-06461                                  0
+000311612BX000514                 1888801083410601011700063500000Andi Syaiful Wahdi        THE GYM MONTHLY PAYMENT,BX-0913-06462                                  0
+000311612BX000515                 4890870057438625011600041500000Rini Susanti              THE GYM MONTHLY PAYMENT,BX-0913-06463                                  0
+000311612BX000522                 1234569873126547081700046500000Pending CC                THE GYM MONTHLY PAYMENT,BX-0913-06464                                  0
+000311612BX000523                 1234569832569742081700046500000Pending CC                THE GYM MONTHLY PAYMENT,BX-0913-06465                                  0
+000311612BX000526                 4137190302229957101500041500000Armia                     THE GYM MONTHLY PAYMENT,BX-0913-06466                                  0
+000311612BX000528                 4541791042989220081600041500000Febriana                  THE GYM MONTHLY PAYMENT,BX-0913-06467                                  0
+000311612BX000541                 4599211800014708071300041500000Esti Erastuti             THE GYM MONTHLY PAYMENT,BX-0913-06468                                  0
+000311612BX000544                 5409120006644407081600041500000Yuliana                   THE GYM MONTHLY PAYMENT,BX-0913-06469                                  0
+000311612BX000545                 5413220013172402041600041500000Ulfa Yandila              THE GYM MONTHLY PAYMENT,BX-0913-06470                                  0
+000311612BX000550                 4541780011430985081300063500000S Aufa                    THE GYM MONTHLY PAYMENT,BX-0913-06471                                  0
+000311612BX000553                 4140092070798327021700063500000Okye Marlina              THE GYM MONTHLY PAYMENT,BX-0913-06472                                  0
+000311612BX000554                 4140092070798327021700063500000Okye Marlina              THE GYM MONTHLY PAYMENT,BX-0913-06473                                  0
+000311612BX000557                 5288721190075609031400041500000siti nurjanah             THE GYM MONTHLY PAYMENT,BX-0913-06474                                  0
+000311612BX000558                 4201910210105903071700041500000Luluk Setyo p             THE GYM MONTHLY PAYMENT,BX-0913-06475                                  0
+000311612BX000559                 4140092010779189021700063500000Magellanica S             THE GYM MONTHLY PAYMENT,BX-0913-06476                                  0
+000311612BX000560                 4137190303522160081700041500000Arine Tanani              THE GYM MONTHLY PAYMENT,BX-0913-06477                                  0
+000311612BX000564                 5401840119543364051700041500000Nadia Dwi Insani          THE GYM MONTHLY PAYMENT,BX-0913-06478                                  0
+000311612BX000565                 5242610052654327121700041500000Helmy Pusparini           THE GYM MONTHLY PAYMENT,BX-0913-06479                                  0
+000311612BX000567                 4140092070231378051700063500000Ari Binuko                THE GYM MONTHLY PAYMENT,BX-0913-06480                                  0
+000311612BX000568                 4140094070727132031700063500000Amadea Dewi               THE GYM MONTHLY PAYMENT,BX-0913-06481                                  0
+000311612BX000569                 4140094070727132031700041500000Amadea Dewi               THE GYM MONTHLY PAYMENT,BX-0913-06482                                  0
+000311612BX000570                 4556330025947517081600041500000Mahsita Gundamani         THE GYM MONTHLY PAYMENT,BX-0913-06483                                  0
+000311612BX000571                 4556330025947517081600041500000Mahsita Cundamani         THE GYM MONTHLY PAYMENT,BX-0913-06484                                  0
+000311612BX000572                 5452996709203039111700041500000Rudy Muhammad Noer        THE GYM MONTHLY PAYMENT,BX-0913-06485                                  0
+000311612BX000573                 5452996709203039111700041500000Rudy Muhammad Noer        THE GYM MONTHLY PAYMENT,BX-0913-06486                                  0
+000311612BX000574                 4890870056982821101600063500000Purnama Siborutorop       THE GYM MONTHLY PAYMENT,BX-0913-06487                                  0
+000311612BX000577                 4988538100048021121600041500000Retno Ima Astuti SH       THE GYM MONTHLY PAYMENT,BX-0913-06488                                  0
+000311612BX000580                 5409120016050405031600063500000Trisnawati Utami          THE GYM MONTHLY PAYMENT,BX-0913-06489                                  0
+000311612BX000581                 5409120016050405031600063500000trisnawati Utami          THE GYM MONTHLY PAYMENT,BX-0913-06490                                  0
+000311612BX000582                 5401840119264953011700041500000Febtusia Puspitasari      THE GYM MONTHLY PAYMENT,BX-0913-06491                                  0
+000311612BX000583                 4137180306559020081500063500000Dewi Kemalasari           THE GYM MONTHLY PAYMENT,BX-0913-06492                                  0
+000311612BX000584                 4137180306559020081500063500000Dewi Kemalasari           THE GYM MONTHLY PAYMENT,BX-0913-06493                                  0
+000311612BX000586                 5189430098000251091400041500000Putri Agustiariwati       THE GYM MONTHLY PAYMENT,BX-0913-06494                                  0
+000311612BX000588                 5407319410515003121600041500000Pingkan Marina            THE GYM MONTHLY PAYMENT,BX-0913-06495                                  0
+000311612BX000589                 5523380022026002121500063500000Willem Maitimoe           THE GYM MONTHLY PAYMENT,BX-0913-06496                                  0
+000311612BX000590                 5523380022026002121500063500000Willem Maitimoe           THE GYM MONTHLY PAYMENT,BX-0913-06497                                  0
+000311612BX000591                 4512490000573895101600063500000Maya Novitasari           THE GYM MONTHLY PAYMENT,BX-0913-06498                                  0
+000311612BX000593                 5543025920000700101600041500000Rully Faisol              THE GYM MONTHLY PAYMENT,BX-0913-06499                                  0
+000311612BX000594                 5543025920000700101600041500000Rully Faisol              THE GYM MONTHLY PAYMENT,BX-0913-06500                                  0
+000311612BX000595                 5431999041457012021500041500000Prihata Nirah             THE GYM MONTHLY PAYMENT,BX-0913-06501                                  0
+000311612BX000596                 4556330023500201031600041500000Selly Wiryawan            THE GYM MONTHLY PAYMENT,BX-0913-06502                                  0
+000311612BX000597                 1889801406855606031600041500000Edo Sanka Sembada         THE GYM MONTHLY PAYMENT,BX-0913-06503                                  0
+000311612BX000603                 5409120003674001061500041500000Hyang Trisnawati S        THE GYM MONTHLY PAYMENT,BX-0913-06504                                  0
+000311612BX000604                 5407319410515003121600041500000Pingkan marina sahelangi  THE GYM MONTHLY PAYMENT,BX-0913-06505                                  0
+000311612BX000607                 4556330017076309011500063500000Sylvie Rasmara            THE GYM MONTHLY PAYMENT,BX-0913-06506                                  0
+000311612BX000608                 4587850050212951051500041500000Susan Lioe                THE GYM MONTHLY PAYMENT,BX-0913-06507                                  0
+000311612BX000612                 4556330840412119101400063500000Ahmad Nuzuluddin          THE GYM MONTHLY PAYMENT,BX-0913-06508                                  0
+000311612BX000613                 5484150021270852121700041500000Marina                    THE GYM MONTHLY PAYMENT,BX-0913-06509                                  0
+000311612BX000614                 4556330840412119111400063500000Ahmad Nuzuluddin          THE GYM MONTHLY PAYMENT,BX-0913-06510                                  0
+000311612BX000615                 5484150021270852121700041500000Marina                    THE GYM MONTHLY PAYMENT,BX-0913-06511                                  0
+000311612BX000616                 5401840113300084111300041500000Ira Rakhmawati            THE GYM MONTHLY PAYMENT,BX-0913-06512                                  0
+000311612BX000617                 5401840113300084111300041500000Ira rakhmawati            THE GYM MONTHLY PAYMENT,BX-0913-06513                                  0
+000311612BX000619                 4201920083369734101600041500000Mashendi                  THE GYM MONTHLY PAYMENT,BX-0913-06514                                  0
+000311612BX000620                 5481160103417357031400063500000Reyhana Djamaluddin       THE GYM MONTHLY PAYMENT,BX-0913-06515                                  0
+000311612BX000621                 4309810067696007121500041500000Lanny Prasetio            THE GYM MONTHLY PAYMENT,BX-0913-06516                                  0
+000311612BX000623                 4599202000065145051600063500000Poejowati P W             THE GYM MONTHLY PAYMENT,BX-0913-06517                                  0
+000311612BX000624                 4599202000065145051600041500000Poejowati P W             THE GYM MONTHLY PAYMENT,BX-0913-06518                                  0
+000311612BX000625                 4556330011975209031700041500000Anggia Nurhandini         THE GYM MONTHLY PAYMENT,BX-0913-06519                                  0
+000311612BX000626                 4157365086235645051700041500000Tira Rini                 THE GYM MONTHLY PAYMENT,BX-0913-06520                                  0
+000311612BX000629                 4140092011083417121600063500000Sita K Setiawan           THE GYM MONTHLY PAYMENT,BX-0913-06521                                  0
+000311612BX000630                 1234569632596879051600041500000Pending cc                THE GYM MONTHLY PAYMENT,BX-0913-06522                                  0
+000311612BX000633                 5289190000409805071400041500000Yudha Putrandita          THE GYM MONTHLY PAYMENT,BX-0913-06523                                  0
+000311612BX000634                 5289190000409805071400041500000Yudha putrandita          THE GYM MONTHLY PAYMENT,BX-0913-06524                                  0
+000311612BX000638                 5409120015800008091400041500000Ani Cahyani Aprilia       THE GYM MONTHLY PAYMENT,BX-0913-06525                                  0
+000311612BX000641                 4544931100233874071500041500000Wahyu Meiludin            THE GYM MONTHLY PAYMENT,BX-0913-06526                                  0
+000311612BX000642                 5409120018907503031700041500000Jarwanto                  THE GYM MONTHLY PAYMENT,BX-0913-06527                                  0
+000311612BX000644                 5185350604957154041500063500000Eva Rahajeng K            THE GYM MONTHLY PAYMENT,BX-0913-06528                                  0
+000311612BX000647                 5520088921450107101700041500000Novi Nurjanah             THE GYM MONTHLY PAYMENT,BX-0913-06529                                  0
+000311612BX000648                 4137190300794499061500041500000Ricci Vicika              THE GYM MONTHLY PAYMENT,BX-0913-06530                                  0
+000311612BX000649                 5126760302393167121700010000000Grace Misnan Waas         THE GYM MONTHLY PAYMENT,BX-0913-06531                                  0
+000311612BX000650                 5481170204272379051500041500000Vavina Prisca Waas        THE GYM MONTHLY PAYMENT,BX-0913-06532                                  0
+000311612BX000652                 5288721009149389091500041500000Petra Waworuntu           THE GYM MONTHLY PAYMENT,BX-0913-06533                                  0
+000311612BX000653                 5288721009149389091500041500000Petra Waworuntu           THE GYM MONTHLY PAYMENT,BX-0913-06534                                  0
+000311612BX000655                 4556337773264227111400063500000Hilman Eri Permadi        THE GYM MONTHLY PAYMENT,BX-0913-06535                                  0
+000311612BX000656                 4541780014920420051300041500000Nadia Meutia              THE GYM MONTHLY PAYMENT,BX-0913-06536                                  0
+000311612BX000657                 4541780014920420051300063500000Nadia Meutia              THE GYM MONTHLY PAYMENT,BX-0913-06537                                  0
+000311612BX000659                 5481160102250791011700041500000Asmonica Cherly RB        THE GYM MONTHLY PAYMENT,BX-0913-06538                                  0
+000311612BX000660                 5409120012860617051500041500000Alistya Vyatireka         THE GYM MONTHLY PAYMENT,BX-0913-06539                                  0
+000311612BX000661                 5409120012860617051500041500000Alistya Vyatireka         THE GYM MONTHLY PAYMENT,BX-0913-06540                                  0
+000311612BX000662                 5413220840348522021500063500000Arie R. Iskandar          THE GYM MONTHLY PAYMENT,BX-0913-06541                                  0
+000311612BX000664                 4140092010729416021700041500000Mohamad Michael S         THE GYM MONTHLY PAYMENT,BX-0913-06542                                  0
+000311612BX000665                 5336190000739824041500063500000Trisnaningsih DW          THE GYM MONTHLY PAYMENT,BX-0913-06543                                  0
+000311612BX000666                 1888601253736110071300041500000Putri Aditya .S           THE GYM MONTHLY PAYMENT,BX-0913-06544                                  0
+000311612BX000667                 1889801402238906021600046500000Zhou Jiankun              THE GYM MONTHLY PAYMENT,BX-0913-06545                                  0
+000311612BX000668                 5409120012128700021500063500000Sylvia                    THE GYM MONTHLY PAYMENT,BX-0913-06546                                  0
+000311612BX000670                 5413220010612509071500041500000Erlita Simanjuntak        THE GYM MONTHLY PAYMENT,BX-0913-06547                                  0
+000311612BX000671                 5413220010612509071500041500000Erlita Simanjuntak        THE GYM MONTHLY PAYMENT,BX-0913-06548                                  0
+000311612BX000672                 5413220010612509071500041500000Erlita Simanjuntak        THE GYM MONTHLY PAYMENT,BX-0913-06549                                  0
+000311612BX000673                 5481170201844675091300041500000Sondhari fibrianthi       THE GYM MONTHLY PAYMENT,BX-0913-06550                                  0
+000311612BX000678                 5289190001593508121500041500000Jenny Chandra             THE GYM MONTHLY PAYMENT,BX-0913-06551                                  0
+000311612BX000679                 4472111103894552091600063500000Camellia Octavia          THE GYM MONTHLY PAYMENT,BX-0913-06552                                  0
+000311612BX000680                 1688701103786521041700041500000Indah                     THE GYM MONTHLY PAYMENT,BX-0913-06553                                  0
+000311612BX000681                 1688701103786521041700041500000Indah                     THE GYM MONTHLY PAYMENT,BX-0913-06554                                  0
+000311612BX000683                 4137180306471713061500041500000Christina Siahaan         THE GYM MONTHLY PAYMENT,BX-0913-06555                                  0
+000311612BX000684                 4201920137013288081300041500000Indah                     THE GYM MONTHLY PAYMENT,BX-0913-06556                                  0
+000311612BX000685                 4934981080499308081400041500000Wiena Feriza              THE GYM MONTHLY PAYMENT,BX-0913-06557                                  0
+000311612BX000688                 4259450300161384041500041500000Veronika Purba            THE GYM MONTHLY PAYMENT,BX-0913-06558                                  0
+000311612BX000690                 4835749902424337061400063500000Kartika Riana Sari        THE GYM MONTHLY PAYMENT,BX-0913-06559                                  0
+000311612BX000691                 4835749902424337061400041500000Kartika Riana Sari        THE GYM MONTHLY PAYMENT,BX-0913-06560                                  0
+000311612BX000693                 4541780014299197081600063500000Elisabeth Olivia          THE GYM MONTHLY PAYMENT,BX-0913-06561                                  0
+000311612BX000696                 4511970008143479111700041500000Febby Wahyuandini         THE GYM MONTHLY PAYMENT,BX-0913-06562                                  0
+000311612BX000697                 5409127771235824091400041500000Rita Ariyani              THE GYM MONTHLY PAYMENT,BX-0913-06563                                  0
+000311612BX000698                 4105050900213662091400041500000Rachmawati                THE GYM MONTHLY PAYMENT,BX-0913-06564                                  0
+000311612BX000699                 4541786010336297071700063500000Mirinda Dewi              THE GYM MONTHLY PAYMENT,BX-0913-06565                                  0
+000311612BX000700                 4541786010336297071700063500000Mirinda Dewi              THE GYM MONTHLY PAYMENT,BX-0913-06566                                  0
+000311612BX000701                 5289190001657584011600046500000Ika Indayanti Huka        THE GYM MONTHLY PAYMENT,BX-0913-06567                                  0
+000311612BX000704                 5149342580148200101400041500000Akhmad Ludzain            THE GYM MONTHLY PAYMENT,BX-0913-06568                                  0
+000311612BX000707                 4374500000226117111700041500000Andy Maruly Romatua       THE GYM MONTHLY PAYMENT,BX-0913-06569                                  0
+000311612BX000708                 4374500000226117111700041500000Andy Maruly Romatua       THE GYM MONTHLY PAYMENT,BX-0913-06570                                  0
+000311612BX000710                 4472111101810188071500063500000Esti Novyanti             THE GYM MONTHLY PAYMENT,BX-0913-06571                                  0
+000311612BX000715                 4140092070104922071700063500000Rahayu U Lestari          THE GYM MONTHLY PAYMENT,BX-0913-06572                                  0
+000311612BX000716                 5289190001220672061500071500000Brigitta Bako             THE GYM MONTHLY PAYMENT,BX-0913-06573                                  0
+000311612BX000717                 4541780013260786041700046500000Imelda D Simatupang       THE GYM MONTHLY PAYMENT,BX-0913-06574                                  0
+000311612BX000718                 4541780013260786041700046500000Imelda D Simatupang       THE GYM MONTHLY PAYMENT,BX-0913-06575                                  0
+000311612BX000719                 1888601161349402121600046500000IR. Verdi Armansyah       THE GYM MONTHLY PAYMENT,BX-0913-06576                                  0
+000311612BX000720                 5243250300440028051500071500000Jacqueline R D            THE GYM MONTHLY PAYMENT,BX-0913-06577                                  0
+000311612BX000729                 5289190001346840061400046500000Febiana Rima K            THE GYM MONTHLY PAYMENT,BX-0913-06578                                  0
+000311612BX000730                 5289190001346840061400046500000Febiana Rima K            THE GYM MONTHLY PAYMENT,BX-0913-06579                                  0
+000311612BX000733                 4309815000043621021700046500000Gunadi Sugianto           THE GYM MONTHLY PAYMENT,BX-0913-06580                                  0
+000311612BX000734                 4309815000043621021700046500000Gunadi Sugianto           THE GYM MONTHLY PAYMENT,BX-0913-06581                                  0
+000311612BX000737                 4890870056583215081600071500000Herlina Bako              THE GYM MONTHLY PAYMENT,BX-0913-06582                                  0
+000311612BX000754                 5413220007706710071400046500000Melissa Marliena          THE GYM MONTHLY PAYMENT,BX-0913-06583                                  0
+000311612BX000755                 5413220007706710071400046500000Milessa Marlienia         THE GYM MONTHLY PAYMENT,BX-0913-06584                                  0
+000311612BX000761                 4157350220634002081400028500000Cahyo Prathama Setyardi   THE GYM MONTHLY PAYMENT,BX-0913-06585                                  0
+000311612BX000764                 5241250000484476081300046500000Erni Ridwan               THE GYM MONTHLY PAYMENT,BX-0913-06586                                  0
+000311612BX000773                 5421770191967197031600046500000Yosa Adrian               THE GYM MONTHLY PAYMENT,BX-0913-06587                                  0
+000311612BX000775                 4890870052028090071700046500000Caterin Novista           THE GYM MONTHLY PAYMENT,BX-0913-06588                                  0
+000311612BX000778                 5409120003144302011500046500000Leon Defry                THE GYM MONTHLY PAYMENT,BX-0913-06589                                  0
+000311612BX000780                 4140092010482008021700071500000Herman Ari Saptono        THE GYM MONTHLY PAYMENT,BX-0913-06590                                  0
+000311612BX000781                 4140092010482008021700046500000Herman Ari Saptono        THE GYM MONTHLY PAYMENT,BX-0913-06591                                  0
+000311612BX000782                 5409127775736611121300046500000Aida Fathiyah Igirisa     THE GYM MONTHLY PAYMENT,BX-0913-06592                                  0
+000311612BX000783                 4105040942002603081300046500000Wara Triwardhani          THE GYM MONTHLY PAYMENT,BX-0913-06593                                  0
+000311612BX000786                 5401840119318346101300046500000Stephanie Indira A        THE GYM MONTHLY PAYMENT,BX-0913-06594                                  0
+000311612BX000788                 4055420153919671111400046500000Ong Hock Sze              THE GYM MONTHLY PAYMENT,BX-0913-06595                                  0
+000311612BX000789                 4055420153919671111400046500000Ong Hock Sze              THE GYM MONTHLY PAYMENT,BX-0913-06596                                  0
+000311612BX000790                 4055420153919671111400046500000Ong Hock Sze              THE GYM MONTHLY PAYMENT,BX-0913-06597                                  0
+000311612BX000792                 4541780015712669091600046500000Dadan Fuad H ST           THE GYM MONTHLY PAYMENT,BX-0913-06598                                  0
+000311612BX000793                 4541791051979245011700046500000Ridzki Roy Agung          THE GYM MONTHLY PAYMENT,BX-0913-06599                                  0
+000311612BX000798                 4541791070006392021400046500000Brian Prakosa             THE GYM MONTHLY PAYMENT,BX-0913-06600                                  0
+000311612BX000803                 5484150021046963051700046500000Dyah Yatnikasari          THE GYM MONTHLY PAYMENT,BX-0913-06601                                  0
+000311612BX000806                 4556330029065308031700071500000Herry Purnomo             THE GYM MONTHLY PAYMENT,BX-0913-06602                                  0
+000311612BX000807                 5481160105737620061500046500000Tri Sari                  THE GYM MONTHLY PAYMENT,BX-0913-06603                                  0
+000311612BX000811                 4201910429627952061700046500000Mahisa Campaka            THE GYM MONTHLY PAYMENT,BX-0913-06604                                  0
+000311612BX000814                 4541780012987173061700046500000Kartika Toendan           THE GYM MONTHLY PAYMENT,BX-0913-06605                                  0
+000311612BX000816                 4096750141230802071500046500000Oneka Quiztrina           THE GYM MONTHLY PAYMENT,BX-0913-06606                                  0
+000311612BX000817                 4201920131149690041400046500000Eka Febyani               THE GYM MONTHLY PAYMENT,BX-0913-06607                                  0
+000311612BX000818                 1234569369875632071300046500000Pending CC                THE GYM MONTHLY PAYMENT,BX-0913-06608                                  0
+000311612BX000820                 4377001023600468071500046500000Grant R Ollsen            THE GYM MONTHLY PAYMENT,BX-0913-06609                                  0
+000311612BX000823                 4890870051293356101600046500000Rapelino F                THE GYM MONTHLY PAYMENT,BX-0913-06610                                  0
+000311612BX000826                 5289190003376241111700046500000Dian Kusumastuti          THE GYM MONTHLY PAYMENT,BX-0913-06611                                  0
+000311612BX000827                 5484150020925373051700046500000Santi Mutia               THE GYM MONTHLY PAYMENT,BX-0913-06612                                  0
+000311612BX000828                 4284160000452848071500046500000Agustina Hastarini        THE GYM MONTHLY PAYMENT,BX-0913-06613                                  0
+000311612BX000829                 1002801036063912051700071500000Siti handayani            THE GYM MONTHLY PAYMENT,BX-0913-06614                                  0
+000311612BX000847                 4556321136098407051500071500000Imelda Manik              THE GYM MONTHLY PAYMENT,BX-0913-06615                                  0
+000311612BX000855                 5185350200301369071500037500000Rita                      THE GYM MONTHLY PAYMENT,BX-0913-06616                                  0
+000311612BX000861                 4599219100008460011600071500000Resdy                     THE GYM MONTHLY PAYMENT,BX-0913-06617                                  0

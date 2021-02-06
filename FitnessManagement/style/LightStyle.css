@@ -1,0 +1,72 @@
+.PagerContainerTable
+{
+	border-right: #333333 1px solid;
+	border-top: #333333 1px solid;
+	border-left: #333333 1px solid;
+	color: #d1d1e1;
+	border-bottom: #333333 1px solid;
+	background-color: #FFFFFF;
+}
+.PagerInfoCell
+{
+	padding-right: 6px;
+	padding-left: 6px;
+	padding-bottom: 3px;
+	font: bold 11px arial, verdana, geneva, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+	color: #eeddee;
+	padding-top: 3px;
+	white-space: nowrap;
+	background-color: #005500;
+	font-weight:normal;
+}
+.PagerInfoCell:link
+{
+	color: #ffcc66;
+	text-decoration: none;
+}
+.PagerInfoCell:visited
+{
+	color: #ffcc66;
+	text-decoration: none;
+}
+.PagerCurrentPageCell
+{
+	color: #006600;
+	background-color: #ddffdd;
+}
+.PagerOtherPageCells
+{
+	background-color: #eeddee;
+}
+.PagerSSCCells
+{
+	background-color: #cccccc;
+}
+.PagerHyperlinkStyle
+{
+	font: 11px arial, verdana, geneva, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+}
+.PagerHyperlinkStyle:hover
+{
+	color: #000000;
+	text-decoration: underline;
+	font: 11px arial, verdana, geneva, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+}
+.PagerHyperlinkStyle:link
+{
+	color: #000000;
+	text-decoration: none;
+	font: 11px arial, verdana, geneva, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+}
+.PagerHyperlinkStyle:visited
+{
+	color: #000000;
+	text-decoration: none;
+	font: 11px arial, verdana, geneva, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+}
+.PagerHyperlinkStyle:active
+{
+	color: #000000;
+	text-decoration: none;
+	font: 11px arial, verdana, geneva, lucida, 'lucida grande' , arial, helvetica, sans-serif;
+}

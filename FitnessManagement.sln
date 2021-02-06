@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "FitnessManagement", "FitnessManagement\", "{E659C83D-0522-45A5-8BC2-F541134958B6}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""
+		SccAuxPath = ""
+		SccLocalPath = ""
+		SccProvider = ""
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/FitnessManagement"
+		Debug.AspNetCompiler.PhysicalPath = "FitnessManagement\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\FitnessManagement\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/FitnessManagement"
+		Release.AspNetCompiler.PhysicalPath = "FitnessManagement\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\FitnessManagement\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "12345"
+		VWDDynamicPort = "false"
+		SlnRelativePath = "FitnessManagement\"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E659C83D-0522-45A5-8BC2-F541134958B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E659C83D-0522-45A5-8BC2-F541134958B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

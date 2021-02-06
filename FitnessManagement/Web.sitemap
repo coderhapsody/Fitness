@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Root"  description="Root" roles="*">
+
+    <!-- APPLICATION -->
+    <siteMapNode url="" title="Application"  description="Application" roles="*">
+      <siteMapNode url="~/Default.aspx" title="Home" description="Home" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/ChangePassword.aspx" title="Change Password" description="Change Password" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/ManageAlerts.aspx" title="Alerts" description="Create or modify alerts in home page" roles="Administrator" isTransactionForm="true" />
+      <siteMapNode url="~/ManageUsers.aspx" title="Users" description="Manage Application Users" roles="Administrator" isTransactionForm="true" />
+      <siteMapNode url="~/ManageRoles.aspx" title="Roles" description="Manage Application Roles" roles="Administrator" isTransactionForm="true" />      
+    </siteMapNode>
+ 
+
+    <siteMapNode url="" title="Masters"  description="Master" roles="*">
+      <siteMapNode url="~/MasterArea.aspx" title="Area" description="Area" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterBank.aspx" title="Bank" description="Bank" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterBillingType.aspx" title="Billing Type" description="Billing Type" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterBranch.aspx" title="Branch" description="Branch" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterContract.aspx" title="Contract" description="Contract" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/ContractActivation.aspx" title="Contract Activation" description="Contract Activation" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterCreditCardType.aspx" title="Credit Card Type" description="Credit Card Type" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterCustomer.aspx" title="Customer" description="Customer" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/MasterDocumentType.aspx" title="Document Type" description="Document Type" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterEmployee.aspx" title="Employee" description="Employee" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/MasterCustomerStatus.aspx" title="Customer Status" description="Customer Status" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterItem.aspx" title="Item" description="Item" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterItemAccount.aspx" title="Item Account" description="Item Account" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterItemType.aspx" title="Item Type" description="Item Type" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterPackage.aspx" title="Package" description="Package" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterPaymentType.aspx" title="Payment Type" description="Payment Type" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/MasterPickUpPerson.aspx" title="Pick Up Person" description="Pick Up Person" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/EditTemplateText.aspx" title="Template Text" description="Template Text" roles="*" isTransactionForm="true" />
+    </siteMapNode>
+
+
+    <siteMapNode url="" title="Transactions"  description="Transaction" roles="*">
+      <siteMapNode url="~/FreshMember.aspx" title="Fresh Member" description="Fresh Member" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/ExistingMember.aspx" title="Existing Member" description="Existing Member" roles="*" isTransactionForm="false" />
+      <!--<siteMapNode url="~/CheckIn.aspx" title="Check In" description="Check In" roles="*" />-->
+      <siteMapNode url="~/RePrint.aspx" title="Re-Print Invoice" description="Re-Print Invoice" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/VoidInvoice.aspx" title="Void Invoice" description="Void Invoice" roles="*" isTransactionForm="false" />
+      <siteMapNode url="~/ManageChangeStatusDocument.aspx" title="Change Status Customer" description="Change Status Customer" roles="*" isTransactionForm="true" />
+      <siteMapNode url="~/Closing.aspx" title="Monthly Closing" description="Monthly Closing" roles="*" isTransactionForm="true" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Settings"  description="Settings" roles="*">
+      <siteMapNode url="~/UpdateAutoNumber.aspx" title="Auto Number" description="Auto Number" roles="*" />
+      <siteMapNode url="~/SetActiveUserAtBranch.aspx" title="Set Active Users at Branch" description="Set Active Users at Branch" roles="*" />
+      <siteMapNode url="~/SetActiveItemAtBranch.aspx" title="Set Active Items at Branch" description="Set Active Items at Branch" roles="*" />
+      <siteMapNode url="~/SetActivePackageAtBranch.aspx" title="Set Active Packages at Branch" description="Set Active Packages at Branch" roles="*" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Inquiries"  description="Inquiries" roles="*">
+      <siteMapNode url="~/InquiryInvoice.aspx" title="Inquiry Invoice" description="Inquiry Invoice" roles="*" />
+      <siteMapNode url="~/InquiryCustomer.aspx" title="Inquiry Customer" description="Inquiry Customer" roles="*" />
+      <siteMapNode url="~/InquiryContract.aspx" title="Inquiry Contract" description="Inquiry Contract" roles="*" />
+    </siteMapNode>
+
+    <siteMapNode url="" title="Reports"  description="Reports" roles="*">
+      <siteMapNode url="~/ReportCustomerList.aspx" title="List of Customers" description="List of Customers" roles="*" />
+      <siteMapNode url="~/ReportUnpaidContracts.aspx" title="Unpaid Contracts" description="Unpaid contracts" roles="*" />
+      <siteMapNode url="~/ReportDailyRevenue.aspx" title="Daily Revenue" description="Daily Revenue" roles="*" />
+      <siteMapNode url="~/ReportMonthlyReport.aspx" title="Monthly Report" description="Monthly Report" roles="*" />
+      <siteMapNode url="~/ReportTransactionByPaymentType.aspx" title="Transaction by Payment Type" description="Transaction by Payment Type" roles="*" />
+    </siteMapNode>
+  </siteMapNode>
+
+
+  
+  
+</siteMap>

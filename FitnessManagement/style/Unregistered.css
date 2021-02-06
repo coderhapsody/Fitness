@@ -1,0 +1,124 @@
+﻿body
+{
+    font: 70% Verdana, Arial, Helvetica, sans-serif;
+    background: #444444;
+    margin: 0; /* it's good practice to zero the margin and padding of the body element to account for differing browser defaults */
+    padding: 0;
+    text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+    color: #000000;
+}
+
+table.fullwidth
+{
+    width: 100%;
+}
+.igt_login #container
+{
+    width: 550px; /* using 20px less than a full 800px width allows for browser chrome and avoids a horizontal scroll bar */
+    background: #FFFFFF;
+    margin: 100px auto; /* the auto margins (in conjunction with a width) center the page */
+    border: 5px solid #000000;
+    text-align: left; /* this overrides the text-align: center on the body element. */
+}
+.igt_login #mainContent
+{
+    padding: 10px; /* remember that padding is the space inside the div box and margin is the space outside the div box */    
+}
+.igt_login #container .footerText
+{
+    text-align: center;
+    padding: 3px 10px 3px 0px;
+    font-weight: bold;
+    color: #ffffff;
+    background-color: #005555;
+    border-top: solid 2px #000000;
+}
+.igt_login #mainContent .flat
+{
+    border: solid 1px;
+}
+.igt_login #mainContent .titleBig
+{
+    font-size: 180%;
+    font-weight: bold;
+    text-align: center;
+}
+.igt_login #mainContent .titleMed
+{
+    font-size: 130%;
+    font-weight: bold;
+    text-align: center;
+}
+.igt_login #mainContent .titleSmall
+{
+    font-size: 100%;
+    font-weight: bold;
+    padding: 15px;
+    text-align: center;
+}
+
+.igt_login #container a
+{
+    text-decoration: none;
+}
+
+.igt_login #container a:hover
+{
+    text-decoration: underline;
+}
+
+.igt_login #mainContent .mainContent
+{
+    color: #000000;
+    font: 100% Verdana, Arial, Helvetica, sans-serif;
+}
+
+.igt_login #mainContent .greenInfo
+{
+    color: #008800;
+}
+
+.igt_login #mainContent .alternateMessage
+{
+    color: #008800;
+}
+
+.igt_login #mainContent .infoMessage
+{
+    color: #008800;
+}
+
+.igt_login #mainContent .errorMessage
+{
+    color: #ff0000;
+}
+
+.igt_login #mainContent .dropdown
+{
+    font-family: Verdana;
+    font-size: 100%;
+}
+
+.igt_login #mainContent .textbox
+{
+    font-family: Verdana;
+    border: 1px solid black;
+    font-size: 100%;
+}
+
+.igt_login #mainContent .button
+{
+    font-family: Verdana;
+    font-size: 100%;
+    border: 1px solid black;
+    height: 20px;
+}
+
+.igt_login #mainContent .watermarked
+{
+    background-color: #BB99BB;
+    font-style: italic;
+    border: 1px solid black;
+    color: #EEEEEE;
+    font: 100% Verdana;
+}

@@ -1,0 +1,83 @@
+MERCHANT BARCODE                   cc #          |EXP|00|DUES  00 NAME                     NOTES                                                                  0      DECLINE REASON
+044490445PBG001668                4105040007140512111300025000000Ricky Muhammad Dollar     AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG001626                4105040904010321031000033000000Sri Miranta               AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445301016                   4137180301913164061500022500000max christianto           AUTO PAYMENT GOLD'S GYM BG                                             0      51
+044490445PBG000228                4137180306097039091400033000000David Samuel              AUTO PAYMENT GOLD'S GYM BG                                             0      02
+044490445PBG000576                4140092010532240081100033000000David Simon               AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG001723                4157350092731001110900033000000Irna Yustiani             AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445PBG000238                4157365051366011101100033000000Ferry Gunawan             AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445PBG001542                4201910133345792031400033000000Gita Rustia Erawan        AUTO PAYMENT GOLD'S GYM BG                                             0      51
+044490445PBG001106                4201910321943747061300033000000Partomo Surya Panjilaya   AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG001137                4201910341844552111300033000000Jennyca Christie          AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301260                   4201920088711005060900022500000Voldy Setiawan            AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445302002                   4377001005967000021100028600000Gideon Oktavianus         AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445301458                   4472110018438836040900045000000Jusup Budiono             AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445PBG000111                4511970000898823100900029590000Suhelva Indrawati         AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301678                   4541780012801309120900028600000Tri Utomo W               AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301232                   4541791040230361050900022500000Owen Yoga T               AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301464                   4544931100972703081100022500000Joli                      AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG002121                4599200201352320011400026500000Girish Manohar            AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301851                   4934981080022886111400028600000Hanna Sutanto             AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445PBG001109                5184940000025571081100022500000Andi Gunawan              AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG001201                5185350602250628101100033000000Rizky Iman                AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG000085                5188282199939403021000029590000Novi Pahlawati K          AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301596                   5188560204095307041000029590000Ervina Tjandra            AUTO PAYMENT GOLD'S GYM BG                                             0      51
+044490445301185                   5201910001480009100900026000000David Kurniawan Lee       AUTO PAYMENT GOLD'S GYM BG                                             0      62
+044490445300325                   5243250300283410120900023900000Stella Perwitasari        AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445PBG001531                5243250300433767051000033000000Ong Esther Mulan          AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301531                   5256441166491882031200022500000Agus Susanto              AUTO PAYMENT GOLD'S GYM BG                                             0      12
+044490445PBG001862                5401741701785159031000033000000Anita Susanti             AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445301126                   5401742517670007120900026000000Agus Yacobus              AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445301475                   5401840112605426080800045000000Farida                    AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445301764                   5404682711810008060900028600000Sylvia Imawan             AUTO PAYMENT GOLD'S GYM BG                                             0      54
+044490445301618                   5409120002341701051000028600000Irma Mariam               AUTO PAYMENT GOLD'S GYM BG                                             0      51
+044490445301304                   5421770190925063041200045000000Budhy Zohansyah           AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445PBG001966                5443040010610400051400026500000Renaldi Umar              AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445300384                   5443040210099693070900023900000Rudyanto Gunawan          AUTO PAYMENT GOLD'S GYM BG                                             0      83
+044490445PBG001971                5452990246098002041200033000000Rudi Hendrapurnama S      AUTO PAYMENT GOLD'S GYM BG                                             0      04
+044490445PBG000372                5481160101788460040900033000000Djong Sung She            AUTO PAYMENT GOLD'S GYM BG                                             0      05
+044490445PBG002124                5577911211544416051400026500000Hsieh Yi Kai              AUTO PAYMENT GOLD'S GYM BG                                             0      12
+044490445PBG001965                4556323460285212081100033000000Aking Zaenal Mustaqin     AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301557                   5413220080659117071100028600000Moch Yusuf Ridwan         AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301235                   1444800574714817080900026000000Yuliana                   AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001978                5413222380071217051000026500000Yojan Winata Nugroho      AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301874                   1888800651444612010900028600000David Franciosa W         AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301954                   5409128880301218111000028600000Rusli Waluja              AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301005                   1437600835182211090900045000000Oscar Teguh               AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301362                   5409128880883421051000022500000R Gantama                 AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301525                   1444600724182414121200045000000Ida Tanudarma             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301592                   4556334440156217101000033000000Ir.Yusuf Sutanto          AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001012                4556328881052315081000022500000Andy Solihin              AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG002133                4556328880673814111000033000000Kania Sari                AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001775                5409124440275927061200033000000Vincent Saputra           AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301222                   5409124440275935060800010000000Inggrid Saputra           AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001095                1437800472004724060900023900000Oentono Santoso           AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445300075                   5413224440741524041100033000000Handy Senjaya             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000457                1346800651396222010900045000000Arief Pranadi             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301165                   5409120340066614061100026000000Reswandi Rustam           AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000339                5409120080279617051000033000000Rony Wirawan Pandu        AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001690                5413220004990200021100033000000Cut Oktavia               AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000153                1444800739537525030900033000000Rudy Nigar                AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000058                1346800859605119020900029590000Adim Multazam             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445300300                   5409124440163024071000023900000Hendy Liyanto             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001390                5413228881096215121000033000000Erwin Lewi                AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301887                   4556328880673814111000028600000Kania Sari                AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301422                   4556328880956011061000022500000Marlina                   AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301521                   4556324440595514031000026000000Eric Kurniawan            AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445302080                   5409120080227715041100029590000Jenny Kadiat              AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001060                5409124440071730071000026000000Leticia Josselyn Kustaman AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301007                   5413220003211707091000026000000Irene Johan               AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301670                   5413220080500113021100028600000Billy Irawan              AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301249                   4556320080906912081000022500000Herman                    AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301054                   1900800839677210030900026000000Lili Hartatik             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG002032                5409124370082814021000033000000Naniek Hardiyani          AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001445                4556334440172826041000033000000Irwan Hadikusumah         AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000631                5413220040175238121000033000000Mariana                   AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445300013                   1346800849499318121200020500000Senfry Limanjaya          AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301272                   5409128880883421051000022500000R Gantama                 AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001954                5409123460070325041100026500000Erwin Erwin               AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000721                5413224440450514121000022500000Chriswanto Darmawan       AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG000329                5413223460275819091000033000000Robin Cahyadi             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301953                   4556330003992006091000028600000Nickolas Seytawan         AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445PBG001206                5409120550010922071000033000000Deden Bahtiar             AUTO PAYMENT GOLD'S GYM BG                                             0      14
+044490445301178                   5413220080477114121000026000000Mario Antonius            AUTO PAYMENT GOLD'S GYM BG                                             0      14

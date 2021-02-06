@@ -1,0 +1,121 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterReport.master.cs"
+    Inherits="MasterReport" %>
+    
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <!-- 
+    ************************************************************
+    ASP.NET WebForm Application Template
+    Catalyst Application Platform
+
+    Version 4.0
+    (c)Copyright Paulus Iman, 2007-2010
+    (c)Copyright PT Indocyber Global Technology, 2011    
+    Build on .NET Framework 4.0
+    ************************************************************
+    -->
+    <title><%= System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.ApplicationTitle] %></title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta http-equiv="Software Architect" content="Paulus Iman" />
+    <meta http-equiv="Author" content="PT Indocyber Global Technology" />    
+
+    <link rel="stylesheet" href="style/Default.css" type="text/css" />
+    <link rel="stylesheet" href="style/LightStyle.css" type="text/css" />
+    <link rel="stylesheet" href="style/themes/base/jquery-ui.css" type="text/css" />
+    <style>html,body,form {height:100%}</style>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server"></asp:ContentPlaceHolder>
+
+
+    <script type="text/javascript" language="javascript">
+        
+           $(function () {
+                //if (window.name != 'MAIN_WINDOW_APP') document.location = 'index.htm';
+                show();
+
+            });
+            
+        function show() {
+            var Digital = new Date();
+            var hours = Digital.getHours();
+            var minutes = Digital.getMinutes();
+            var seconds = Digital.getSeconds();
+            if (minutes <= 9)
+                minutes = "0" + minutes;
+            if (seconds <= 9)
+                seconds = "0" + seconds;
+            document.getElementById("clock").innerHTML = hours + ":" + minutes + ":" + seconds + " ";
+            setTimeout("show()", 1000);
+        }       
+    </script>    
+</head>
+<body class="igt">
+    <form method="post" id="theForm" name="theForm" runat="server">
+    
+    <div id="container">
+        <div id="header">
+            <table style="width:100%;">
+                <tr>
+                    <td>
+                        <%--<img src="<%# System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.ApplicationURL] %>/images/prudential.png" align="middle" title="Prudential" />--%>
+                    </td>
+                    <td>
+                        <div id="maintitle"><%= System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.ApplicationTitle] %></div>                                    
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="mainSubHeader">
+            <table border="0" width="100%">
+                <tr>
+                    <td>
+                        Current User: <strong><%= Page.User.Identity.Name %> </strong>
+                        <asp:ContentPlaceHolder ID="cphSubHeaderLeft" runat="server">
+                            <asp:Menu ID="menuDefault" runat="server" EnableViewState="false" 
+                                DataSourceID="SiteMapDataSourceApp" RenderingMode="Table" ToolTip="Application main menu"
+                                Orientation="Horizontal" DynamicVerticalOffset="3" 
+                                Width="200px"  
+                                DynamicHorizontalOffset="1" DynamicEnableDefaultPopOutImage="true">                                
+                                <DynamicHoverStyle BackColor="#CCFFFF" Font-Bold="True" />
+                                <DynamicMenuItemStyle HorizontalPadding="5px" VerticalPadding="4px" Width="200px" />
+                                <DynamicMenuStyle BackColor="#BBDDDD" BorderWidth="2px" BorderStyle="Solid" />                                                                
+                            </asp:Menu>
+                            <asp:SiteMapDataSource ID="SiteMapDataSourceApp" runat="server" ShowStartingNode="False" />
+                        </asp:ContentPlaceHolder>
+                    </td>
+                    <td style="text-align: right;" title="Current user">                        
+                        <strong><em></em></strong>
+                    </td>
+                    <td style="text-align: right; width: 400px;">
+                        <span title="Current date">
+                            <%= DateTime.Now.ToString("dddd, dd MMMM yyyy") %></span> &nbsp;&nbsp;&nbsp;&nbsp;
+                        <span id="clock" title="Current time"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+                        <%--<asp:LoginStatus ID="lgsLoginStatus" runat="server" EnableViewState="false" ToolTip="Ends current session and back to login page"  />--%>
+                        <a onclick="if(confirm('Are you sure want to exit from this application ?')) window.close();" href="#" >Logout</a>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <br />
+        <div id="mainContent">
+            <div class="titleMed">
+                <asp:ContentPlaceHolder ID="cphMainTitle" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <br />
+            <asp:ContentPlaceHolder ID="cphMainContent" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+       <%-- <div id="footer">
+            <p style="text-align: center; font-size: 80%;">
+                <%# System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.FooterTitle] %>
+            </p>
+        </div>--%>
+    </div>
+    </form>
+</body>
+</html>

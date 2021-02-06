@@ -1,0 +1,48 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterUnregisteredPage.master.cs" Inherits="UnregisteredPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <!-- 
+    ************************************************************
+    ASP.NET WebForm Application Template
+    Catalyst Application Platform
+
+    Version 4.0
+    (c)Copyright Paulus Iman, 2007-2010
+    (c)Copyright PT Indocyber Global Technology, 2011    
+    Build on .NET Framework 4.0
+    ************************************************************
+    -->
+    <title><%= System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.ApplicationTitle] %></title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta http-equiv="Software Architect" content="Paulus Iman" />
+    <meta http-equiv="Author" content="PT Indocyber Global Technology" />
+
+    <link rel="stylesheet" href="style/Unregistered.css" type="text/css" />
+    <asp:ContentPlaceHolder ID="cphStyleSheets" runat="server"></asp:ContentPlaceHolder>
+
+    <script src="js/Utils.js" type="text/javascript" language="javascript"></script>
+    <script src="js/jquery-1.6.3.js" type="text/javascript" language="javascript"></script>    
+</head>
+<body class="igt_login">
+    <form id="theForm" name="theForm" runat="server" method="post">
+        <div id="container">
+            <div id="mainContent">
+                <div class="titleMed">
+                    <asp:ContentPlaceHolder ID="cphTitle" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                
+                <asp:ContentPlaceHolder ID="cphMainContent" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            <!-- end #container -->
+        </div>
+    </form>
+</body>
+</html>
+

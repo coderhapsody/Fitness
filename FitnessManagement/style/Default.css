@@ -1,0 +1,225 @@
+﻿/* ----------------------------------------
+		  Web Form Container 
+-------------------------------------------*/
+
+/* Hack for IE */
+* html #Content {
+    height: 100%;
+}
+/* End IE Hack */
+
+body {
+	font: 70% Verdana, Arial, Helvetica, sans-serif;
+	/*background: #444444;    */
+	margin: 0px;
+	padding: 0;
+	text-align: center; /* this centers the container in IE 5* browsers. The text is then set to the left aligned default in the #container selector */
+	color: #000000;		
+}
+
+.igt #container {
+	/*idth: 99%; */ /* this will create a container 80% of the browser width */
+	background: #FFFFFF;	
+	/*margin: 5px auto; *//* the auto margins (in conjunction with a width) center the page */
+	
+	/*border: 2px solid #111111;	*/
+	text-align: left; /* this overrides the text-align: center on the body element. */	
+    height: 100%;
+}
+.igt #header {
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 2px;
+	color: #ffffff;
+	background: #1A341B; /*#FFCCFF*/
+       
+	padding: 0 10px 0 20px;  /* this padding matches the left alignment of the elements in the divs that appear beneath it. If an image is used in the #header instead of text, you may want to remove the padding. */
+}
+.igt #header h1 {
+	margin: 0; /* zeroing the margin of the last element in the #header div will avoid margin collapse - an unexplainable space between divs. If the div has a border around it, this is not necessary as that also avoids the margin collapse */
+	padding: 10px 0; /* using padding instead of margin will allow you to keep the element away from the edges of the div */
+}
+.igt #header #maintitle {
+	font-size: 200%;
+	font-weight: bold;
+	font-variant: small-caps;			
+	text-align:center;
+}
+.igt #mainSubHeader {
+	height:25px;
+	border-bottom-style: solid;
+	border-bottom-color: black;
+	border-bottom-width: 2px;
+    background-color: #DFEADC;    
+	padding: 1px 20px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+}
+
+.igt #mainContent {
+	padding: 0 20px; /* remember that padding is the space inside the div box and margin is the space outside the div box */
+	background: #FFFFFF;	
+}
+.igt #footer {
+	border-top-style: solid;
+	border-top-color: black;
+	border-top-width: 1px;
+	padding: 0 10px; /* this padding matches the left alignment of the elements in the divs that appear above it. */
+	margin-top: 20px;
+	background:#CC0000;
+	font-weight:bold;
+	color: #ffffff;
+}
+
+.igt #footer p {
+	margin: 0; /* zeroing the margins of the first element in the footer will avoid the possibility of margin collapse - a space between divs */
+	padding: 10px 0; /* padding on this element will create space, just as the the margin would have, without the margin collapse issue */
+}
+
+a
+{
+	text-decoration: none;	
+}
+
+a:hover
+{
+	text-decoration: underline;    
+}
+
+img
+{
+	border: 0px;
+}
+
+
+.igt #container .menu 
+{
+	background-color: White;    
+	z-index: 1000;
+	display: inline-block;
+}
+
+.igt #container .dropdown
+{
+	font-family: Verdana;
+	font-size: 100%;
+}
+
+.igt #container .textbox
+{
+	font-family: Verdana;
+	background-color: White;
+	border: 1px solid black;
+	font-size: 100%;
+    text-align: left;
+}
+
+.igt #container .button
+{
+	font-family: Verdana;
+	font-size: 100%;
+	border: 1px solid black;
+    height: 19px;
+}
+
+.igt #container .noborder {
+	border: solid 0px;
+	font-size: 100%;
+}
+
+.igt #container .flat {
+	border: solid 1px;
+}
+
+.igt #container .greenInfo {
+	color: #008800;
+}
+
+.igt #container .alternateMessage {
+	color: #008800;
+}
+
+.igt #container .infoMessage {
+	color: #008800;
+}
+
+.igt #container .errorMessage {
+	color: #ff0000;
+}
+
+.igt #container .hide {
+	display: none;
+}
+
+.igt #container .titleBig {
+	font-size: 180%;
+	font-weight: bold;
+}
+.igt #container .titleMed {
+	font-size: 130%;
+	font-weight: bold;	
+}
+.igt #container .titleSmall {
+	font-size: 100%;
+	font-weight: bold;
+	padding: 15px;
+}
+
+.igt #container .modalBackground {
+	background-color:Gray;
+	filter:alpha(opacity=70);
+	opacity:0.7;
+}
+
+.igt #container .ListSearchExtenderPrompt
+{
+	font-style:italic;
+	color:Gray;
+	background-color:white;
+}
+
+.igt #container .watermarked {
+	background-color:#EEEEFF;
+	border: solid 1px #000000;
+	font-style: italic;
+	color:gray;
+	font: 70% Verdana, Arial, Helvetica, sans-serif;
+}	
+
+.igt #container .ajax__tab_body
+{
+    font: 100% Verdana;
+}
+
+table.fullwidth 
+{
+    width:100%;
+}
+
+
+.tableContainer {
+    display: table;
+    width: 95%;
+    border-collapse: collapse;
+}
+
+.tableHeading {
+    font-weight: bold;
+    display: table-row;
+    line-height: 25px;
+    font-size: 14px;
+    font-family: georgia;
+    color: #fff;
+}
+
+.tableRow {
+    display: table-row;
+}
+
+.tableCol {
+    display: table-cell;
+    vertical-align: top;
+    /*border: 1px solid #CCC;*/
+}
+
+div.RadPicker table {
+    width: 150px !important;	
+}

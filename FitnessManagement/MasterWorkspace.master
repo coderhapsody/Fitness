@@ -1,0 +1,130 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterWorkspace.master.cs"
+    Inherits="MasterWorkspace" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <!-- 
+    ************************************************************
+    ASP.NET WebForm Application Template
+    Catalyst Application Platform
+
+    Version 4.0
+    (c)Copyright Paulus Iman, 2007-2010
+    (c)Copyright PT Indocyber Global Technology, 2011    
+    Build on .NET Framework 4.0
+    ************************************************************
+    -->
+    <title>
+        <%# System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.ApplicationTitle] %>
+    </title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+    <meta http-equiv="expires" content="0" />
+    <meta http-equiv="cache-control" content="no-cache" />
+    <meta http-equiv="imagetoolbar" content="no" />
+    <meta http-equiv="Software Architect" content="Paulus Iman" />
+    <meta http-equiv="Author" content="PT Indocyber Global Technology" />
+    <link rel="stylesheet" href="style/Default.css" type="text/css" />
+    <link rel="stylesheet" href="style/LightStyle.css" type="text/css" />
+    <link rel="stylesheet" href="style/themes/base/jquery-ui.css" type="text/css" />
+    <script language="javascript" type="text/javascript" src="js/jquery-1.6.3.min.js"></script>
+    <script language="javascript" type="text/javascript" src="js/jquery-ui-1.8.16.min.js"></script>
+    <script language="javascript" type="text/javascript" src="js/Utils.js"></script>
+    <script language="javascript" type="text/javascript" src="js/moment.js"></script>
+    <asp:ContentPlaceHolder ID="cphHead" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <script type="text/javascript" language="javascript">
+
+
+        $(document).ready(function () {
+            show();
+        });
+
+        function show() {
+            var Digital = new Date();
+            var hours = Digital.getHours();
+            var minutes = Digital.getMinutes();
+            var seconds = Digital.getSeconds();
+            if (minutes <= 9)
+                minutes = "0" + minutes;
+            if (seconds <= 9)
+                seconds = "0" + seconds;
+            document.getElementById("clock").innerHTML = hours + ":" + minutes + ":" + seconds + " ";
+            setTimeout("show()", 1000);
+        }
+    </script>
+    <style type="text/css">
+        .menuItem
+        {
+            display: block;
+        }
+    </style>
+</head>
+<body class="igt">
+    <div class="wrapper">
+        <form method="post" id="theForm" name="theForm" runat="server">
+            <div id="container">
+                <div id="header">
+                    <table style="width: 100%;">
+                        <tr>
+                            <td style="width: 70px">
+                                <img src="images/little_monkey_small.png" align="middle" title="The Gym" />
+                            </td>
+                            <td>
+                                <div id="apptitle">
+                                    <span id="maintitle">
+                                        <%= System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.ApplicationTitle] %><br />
+                                    </span>Version
+                                <%= System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.VersionNumber] %>
+                                </div>
+                            </td>
+                            <td style="width: 500px">
+                                <span style="font-family: Arial; font-size: large; font-style: italic;">
+                                    <%--<marquee><%= System.Configuration.ConfigurationManager.AppSettings[ApplicationSettingKeys.Motto]%></marquee>--%>
+                                </span>
+                            </td>
+                        </tr>
+                    </table>
+
+                </div>
+                <div id="mainSubHeader">
+                    <table border="0" width="100%">
+                        <tr>
+                            <td>
+                                <asp:ContentPlaceHolder ID="cphSubHeaderLeft" runat="server">
+                                    <My:ApplicationMenus ID="ApplicationMenus" runat="server" />
+                                    <%--<asp:SiteMapDataSource ID="SiteMapDataSourceApp" runat="server" ShowStartingNode="False" />--%>
+                                </asp:ContentPlaceHolder>
+                            </td>
+                            <td style="text-align: right;" title="Current user">Current User: <strong>
+                                <%= Page.User.Identity.Name %>
+                            </strong>
+                            </td>
+                            <td style="text-align: right; width: 400px;">
+                                <span title="Current date">
+                                    <%= DateTime.Now.ToString("dddd, dd MMMM yyyy") %></span> &nbsp;&nbsp;&nbsp;&nbsp;
+                            <span id="clock" title="Current time"></span>&nbsp;&nbsp;&nbsp;&nbsp;
+                            <asp:LoginStatus ID="lgsLoginStatus" runat="server" EnableViewState="false" ToolTip="Ends current session and back to login page"
+                                LogoutAction="RedirectToLoginPage" />
+                                <%--                    <a onclick="if(confirm('Are you sure want to exit from this application ?')) window.close();"
+                        href="#">Logout</a>--%>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <br />
+                <div id="mainContent">
+                    <div class="titleMed">
+                        <asp:ContentPlaceHolder ID="cphMainTitle" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                    <br />
+                    <asp:ContentPlaceHolder ID="cphMainContent" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+        </form>
+    </div>
+</body>
+</html>

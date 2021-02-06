@@ -1,0 +1,63 @@
+<asp:GridView SkinID="GridPrompt" runat="server" 
+    CellPadding="4" ForeColor="#333333" GridLines="None">
+    <FooterStyle BackColor="#990000" Font-Bold="True" ForeColor="White" />
+    <RowStyle BackColor="#FFFBD6" ForeColor="#333333" />
+    <PagerStyle BackColor="#FFCC66" ForeColor="#333333" HorizontalAlign="Center" />
+    <SelectedRowStyle BackColor="#FFCC66" Font-Bold="True" ForeColor="Navy" />
+    <HeaderStyle BackColor="#887733" Font-Bold="True" ForeColor="White" />
+    <AlternatingRowStyle BackColor="White" />
+</asp:GridView>
+
+<asp:GridView SkinID="GridBrownYellow" runat="server" BackColor="White"
+    BorderColor="#DEDFDE" BorderStyle="None" BorderWidth="1px" CellPadding="4" ForeColor="Black"
+    GridLines="None" >
+    <FooterStyle BackColor="#CCCC99" />
+    <RowStyle BackColor="#F7F7DE" />
+    <PagerStyle BackColor="#F7F7DE" ForeColor="Black" HorizontalAlign="Right" />
+    <SelectedRowStyle BackColor="#CE5D5A" Font-Bold="True" ForeColor="White" />
+    <HeaderStyle BackColor="#6B696B" Font-Bold="True" ForeColor="White" />
+    <AlternatingRowStyle BackColor="White" />
+</asp:GridView>
+
+<asp:GridView SkinID="GridViewDefaultSkin" runat="server" BackColor="White" ShowHeaderWhenEmpty="True"
+    BorderColor="#eeeeee" BorderStyle="Solid" BorderWidth="1px" CellPadding="3" RowStyle-Height="25"
+    GridLines="None">
+    <AlternatingRowStyle BackColor="#E2FFB6" />
+    <FooterStyle BackColor="#B5C7DE" ForeColor="#4A3C8C" />
+    <HeaderStyle BackColor="#1A341B" Font-Bold="True" ForeColor="#F7F7F7" Font-Size="100%" />
+    <PagerStyle BackColor="#E7E7FF" ForeColor="#4A3C8C" HorizontalAlign="Right" />    
+    <SelectedRowStyle BackColor="#738A9C" Font-Bold="True" ForeColor="#F7F7F7" />
+ </asp:GridView>
+
+ <asp:DetailsView SkinID="DetailsViewSlate" runat="server" 
+    ForeColor="#333333" GridLines="None">
+    <AlternatingRowStyle BackColor="#eeddee" />
+    <CommandRowStyle BackColor="#B5C7DE" Font-Bold="True" />
+    <FieldHeaderStyle BackColor="#550055" Font-Bold="True" ForeColor="#FFFFFF" />
+    <FooterStyle BackColor="#B5C7DE" ForeColor="#4A3C8C" />
+    <HeaderStyle BackColor="#550055" Font-Bold="True" ForeColor="#F7F7F7" Font-Size="100%" />
+    <PagerStyle BackColor="#E7E7FF" ForeColor="#4A3C8C" HorizontalAlign="Right" />    
+    
+</asp:DetailsView>
+
+<asp:ImageButton SkinID="AttachmentButton" runat="Server" ToolTip="Attach image" AlternateText="Attach" ImageUrl="~/images/attach.png" />
+<asp:Hyperlink SkinID="CustomerRepresentativeHyperlink" runat="Server" ToolTip="Edit customer representative" AlternateText="Customer Representative" ImageUrl="~/images/user_green.png" />
+<asp:ImageButton SkinID="SyncButton" runat="Server" AlternateText="Sync" ImageUrl="~/images/sync.png" />
+<asp:Hyperlink SkinID="FolderOpenHyperlink" runat="Server" ToolTip="Look Up" AlternateText="Look Up" ImageUrl="~/images/folder-open.gif" />
+<asp:ImageButton SkinID="DetailButton" runat="Server" AlternateText="Detail" ImageUrl="~/images/zoom.png" />
+<asp:ImageButton SkinID="EditButton" runat="Server" ToolTip="Edit this row" AlternateText="Edit" ImageUrl="~/images/edit.png" />
+<asp:LinkButton SkinID="AddNewButton" runat="server" Tooltip="Add a new row" Text="Add New" AccessKey="A" />
+<asp:LinkButton SkinID="DeleteButton" runat="server" Tooltip="Delete marked row(s)" Text="Delete" AccessKey="D" />
+<asp:Button SkinID="SaveButton" runat="server" Text="Save" CssClass="button" ToolTip="Save current data" AccessKey="S"  />                            
+<asp:Button SkinID="RefreshButton" runat="server" Text="Refresh" CssClass="button" ToolTip="Refresh current selection data with specified criteria" AccessKey="R"  />                            
+<asp:Button SkinID="SelectButton" runat="server" Text="Select" CssClass="button" ToolTip="Select data with specified criteria" AccessKey="L"  />                            
+<asp:Button SkinID="ViewReportButton" runat="server" Text="View Report" CssClass="button" ToolTip="View report" AccessKey="V"  />                            
+<asp:Button SkinID="CancelButton" runat="server" Text="Cancel" CssClass="button" ToolTip="Cancel current operation" AccessKey="C" />                            
+<asp:ImageButton SkinID="DeleteImageButton" runat="Server" ToolTip="Delete this row" AlternateText="Delete" ImageUrl="~/images/delete-item.png" AccessKey="D" /> 
+<asp:Hyperlink SkinID="SelectHyperlink" runat="Server" ToolTip="Select this row" ImageUrl="~/images/redo.gif" /> 
+<asp:Image SkinID="ImageAjaxProgress" runat="server" ImageUrl="~/images/wait.gif" />
+
+<ew:CalendarPopup SkinID="Calendar" runat="server" CalendarWidth="180" 
+    ControlDisplay="TextBoxImage" DisableTextBoxEntry="False" 
+    ImageUrl="~/images/minical.gif" ShowGoToToday="True" Width="80px" 
+    Culture="id-ID" />

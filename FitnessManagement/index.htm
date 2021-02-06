@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <script language="javascript" type="text/javascript">
+         function MakeNewWindow(webpage, windowname) {
+            windowFeatures = "scrollbars=yes,toolbar=no,location=no,statusbar=yes,channelmode=yes,top=0,left=0,resizable=yes,width=" + (screen.width) + ",height=" + (screen.height);
+            newWindow = window.open(webpage, windowname, windowFeatures)
+            newWindow.focus();            
+        }
+    </script>    
+</head>
+<body>
+    <script language="javascript" type="text/javascript">
+        //MakeNewWindow("Default.aspx", "MAIN_WINDOW_APP");
+        //MakeNewWindow("form/HelloWorld?nama=paul&test=1", "MAIN_WINDOW_APP");
+        MakeNewWindow("Login.aspx", "MAIN_WINDOW_APP");        
+        //window.open('form/HOME', 'mr_app');
+        
+    </script>
+</body>
+</html>

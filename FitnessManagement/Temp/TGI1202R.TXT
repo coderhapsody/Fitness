@@ -1,0 +1,12 @@
+000311612BX000331                 1234567890123456021300041500000pending cc                THE GYM MONTHLY PAYMENT,B.-0213-00660                                  0      03
+000311612BX000268                 1234567890123456021300037500000Pending CC                THE GYM MONTHLY PAYMENT,B.-0213-00607                                  0      03
+000311612BX000305                 1234567891023456071300037500000123456                    THE GYM MONTHLY PAYMENT,B.-0213-00637                                  0      03
+000311612BX000345                 4137196000080907121500037500000Wirawan Setiadi           THE GYM MONTHLY PAYMENT,B.-0213-00667                                  0      05
+000311612BX000284                 4541780017508974041300063500000Murdianingsih             THE GYM MONTHLY PAYMENT,B.-0213-00620                                  0      51
+000311612BX000285                 4541780017508974041300063500000Murdianingsih             THE GYM MONTHLY PAYMENT,B.-0213-00621                                  0      51
+000311612BX000317                 4890870052028090071700037500000Caterin Novista           THE GYM MONTHLY PAYMENT,B.-0213-00648                                  0      51
+000311612BX000299                 4934481080001518081400063500000Ali R Alhabsyi            THE GYM MONTHLY PAYMENT,B.-0213-00631                                  0      O6
+000311612BX000308                 5189439016420509071400041500000Yogi Aditya               THE GYM MONTHLY PAYMENT,B.-0213-00640                                  0      05
+000311612BX000287                 5241250000245240011300041500000Sri Faizah                THE GYM MONTHLY PAYMENT,B.-0213-00622                                  0      54
+000311612BX000194                 5481170202122147121300063500000Darni Dahliana            THE GYM MONTHLY PAYMENT,B.-0213-00600                                  0      05
+000311612BX000321                 789654256987412501170004150000054654                     THE GYM MONTHLY PAYMENT,B.-0213-00652                                  0      T3
